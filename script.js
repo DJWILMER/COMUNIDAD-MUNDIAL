@@ -3,7 +3,7 @@ const defaultRadios = [
     {
         id: "radio1", 
         stationName: "Principal FM",
-        streamUrl: "https://icecast.crispro941.cl:8006", // URL de prueba abierta
+        streamUrl: "https://icecast.crispro941.cl/8006/stream", // URL de prueba abierta
         avatar: "https://i.ibb.co/8M0SBdN/DJ-WILMER.jpg",
         locutorName: "DJ WILMER", 
         locutorImg: "https://i.ibb.co/8M0SBdN/DJ-WILMER.jpg",
